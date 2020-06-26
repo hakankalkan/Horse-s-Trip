@@ -1,0 +1,14 @@
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\bin\Debug\cSharpDemo.exe.config
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\bin\Debug\cSharpDemo.exe
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\bin\Debug\cSharpDemo.pdb
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\obj\Debug\cSharpDemo.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\obj\Debug\cSharpDemo.Properties.Resources.resources
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\obj\Debug\cSharpDemo.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\obj\Debug\cSharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\obj\Debug\cSharpDemo.exe
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\obj\Debug\cSharpDemo.pdb
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\obj\Debug\cSharpDemo.cSharpDemo.resources
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\bin\Debug\cSharpDemo.exe.manifest
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\bin\Debug\cSharpDemo.application
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\obj\Debug\cSharpDemo.exe.manifest
+C:\Users\hakan\source\repos\cSharpDemo\cSharpDemo\obj\Debug\cSharpDemo.application
